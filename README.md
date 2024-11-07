@@ -18,7 +18,8 @@ https://github.com/swubteam/Token_swub/blob/main/Documentation.md
 
 ### Chain:
 - Prismachain
-- **Conf**:
+
+### Settings in Metamask
 
 **name**:
 - prismachain
