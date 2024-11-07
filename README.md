@@ -16,17 +16,17 @@ https://github.com/swubteam/Token_swub/blob/main/Documentation.md
 - Prismachain
 - **Conf**:
 
-**name**
-prismachain
+**name**:
+- prismachain
 
-**URLRCP**
-https://rpc.prismachain.io/
+**URLRCP**:
+- https://rpc.prismachain.io/
 
-**IDCHAIN**
-4578
+**IDCHAIN**:
+- 4578
 
-**Symbol**
-Prisma
+**Symbol**:
+- Prisma
 
-**Explorer**
-https://explorer.prismachain.io/
+**Explorer**:
+- https://explorer.prismachain.io/
