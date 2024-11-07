@@ -26,4 +26,7 @@ https://rpc.prismachain.io/
 4578
 
 **Symbol**
+Prisma
+
+**Explorer**
 https://explorer.prismachain.io/
