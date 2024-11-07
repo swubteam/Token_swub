@@ -35,10 +35,10 @@ The contract incorporates the following OpenZeppelin modules:
 - **Modifiers**: None
 - **OpenZeppelin Components**: Calls the `ERC20` constructor and `_mint` for initial supply.
 
-```solidity
+solidity
 constructor() ERC20("Swub", "SWUB") {
     _mint(msg.sender, 20000000 * 10 ** decimals());
-´´´
+
 
 ### 2. Mint Function: function mint(address to, uint256 amount) public onlyOwner
 - **Purpose**: Allows the owner to mint (create) new tokens.
