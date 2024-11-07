@@ -1,7 +1,7 @@
 # Token_swub
 
 ## Contract:
-- [0xfd904DCa552E6eb931882982eFC3b41F2962b86a] (https://explorer.prismachain.io/address/0xfd904DCa552E6eb931882982eFC3b41F2962b86a/contracts#address-tabs)
+- [0xfd904DCa552E6eb931882982eFC3b41F2962b86a](https://explorer.prismachain.io/address/0xfd904DCa552E6eb931882982eFC3b41F2962b86a/contracts#address-tabs)
 
 ## Code:
 https://github.com/swubteam/Token_swub/blob/main/Token_Swub.sol
