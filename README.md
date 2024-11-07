@@ -7,3 +7,7 @@ https://github.com/swubteam/Token_swub/blob/main/Audit.md
 
 ## Documentation Token
 https://github.com/swubteam/Token_swub/blob/main/Documentation.md
+
+### Link:
+- **Blockchain Explorer Link**: [PrismaChain Explorer](https://explorer.prismachain.io/address/0xfd904DCa552E6eb931882982eFC3b41F2962b86a/contracts#address-tabs)
+- **Contract Address**: `0xfd904DCa552E6eb931882982eFC3b41F2962b86a`
